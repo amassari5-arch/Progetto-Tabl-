@@ -1,0 +1,13 @@
+Margherita,8.50
+Diavola,9.50
+Capricciosa,10.00
+Quattro formaggi,11.00
+Bufalina,12.00
+Vegetariana,9.00
+Napoli,8.00
+Boscaiola,10.50
+Tartufo e porcini,15.00
+Pistacchio e mortadella,14.00
+Fiori di zucca e alici,13.00
+Nduja e burrata,14.50
+Carbonara special,13.50

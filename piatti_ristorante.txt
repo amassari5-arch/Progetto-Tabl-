@@ -1,0 +1,13 @@
+Antipasto,12.00
+Tagliata di manzo,18.00
+Risotto ai funghi,14.50
+Salmone alla griglia,20.00
+Pasta all'astice,22.00
+Tortellini in brodo,14.00
+Lasagna,13.00
+Risotto oro,32.00
+Filetto al pepe verde,24.00
+Filetto wagyu,55.00
+Ravioli al tartufo,28.00
+Crudo di mare,35.00
+Anatra all'arancia,26.00
